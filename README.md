@@ -4,7 +4,7 @@ To start the system, just first edit your usrname and pwd in
 
     library.go 
 
-in order to connect to your local database. ( plz use an empty db or the system may do nothing )
+in order to connect to your local database. ( If this is the first time you open this system, plz use an empty db or the system may do nothing )
 Then, run library.go, follow the instructions to set up and use the system.
 You can also use
 
